@@ -6,4 +6,8 @@ The side street is so narrow that no two cars can pass each other. Thus, the lov
 
 You are given the order in which the love mobiles arrive. Write a program that decides if the love mobiles can be brought into the order that the organisers want them to be.
 
-[Source]([https://docs.framasoft.org/fr/grav/](https://www.spoj.com/problems/STPAR/)https://www.spoj.com/problems/STPAR/)
+
+![alt text](illustration_street_parade.png "Illustration")
+
+
+[Source](https://docs.framasoft.org/fr/grav/](https://www.spoj.com/problems/STPAR/)https://www.spoj.com/problems/STPAR/)

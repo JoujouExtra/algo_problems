@@ -10,4 +10,4 @@ You are given the order in which the love mobiles arrive. Write a program that d
 ![alt text](illustration_street_parade.png "Illustration")
 
 
-[Source](https://docs.framasoft.org/fr/grav/](https://www.spoj.com/problems/STPAR/)https://www.spoj.com/problems/STPAR/)
+[Source](https://www.spoj.com/problems/STPAR/)
